@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetStandardLib", "NetStanda
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetFrameworkLibModern", "NetFrameworkLibModern\NetFrameworkLibModern.csproj", "{307C58C4-151C-4862-AD87-B32B67B48619}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetFrameworkLibLegacy", "NetFrameworkLibLegacy\NetFrameworkLibLegacy.csproj", "{5D3C3668-F769-4771-A333-3376DA56164E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{307C58C4-151C-4862-AD87-B32B67B48619}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{307C58C4-151C-4862-AD87-B32B67B48619}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{307C58C4-151C-4862-AD87-B32B67B48619}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D3C3668-F769-4771-A333-3376DA56164E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D3C3668-F769-4771-A333-3376DA56164E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D3C3668-F769-4771-A333-3376DA56164E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D3C3668-F769-4771-A333-3376DA56164E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
