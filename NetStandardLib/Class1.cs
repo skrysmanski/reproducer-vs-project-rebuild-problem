@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace NetStandardLib
+﻿namespace NetStandardLib
 {
     public class Class1
     {
